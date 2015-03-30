@@ -1,0 +1,220 @@
+
+body{
+
+}
+
+
+#wrapper{
+	width: 940px;
+	background-image: url("../images/fondo.gif");
+	
+	margin: 0 auto;
+}
+
+#logo img {
+	width: 280px;
+	height: 70px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+nav{
+	float: right;
+	padding: 40px;
+}
+
+ul.menu {
+	list-style: none;
+}
+
+ul.menu li{
+	float: left;
+	padding: 10px;
+}
+
+ul.menu a{
+	color: #585858;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-style: italic;
+	font-family: arial;
+	padding: 5px;
+	border-radius: 3px;
+}
+
+ul.menu li a:hover {
+background-color: #585858;
+color: #fff;
+}
+
+#portada img {
+	width: 860px;
+	height: 250px;
+	margin: 10px 40px 40px 40px;
+	border-style: solid;
+	border-color: green;
+	border-radius: 15px;
+}
+
+
+article.block{
+	float: left;
+	width: 250px;
+	
+	margin: 31px;
+	font-style: italic;
+	font-family: arial;
+	text-align: justify;
+	font-size: 12px;
+}
+
+#request{
+	clear: left;
+	width: 878px;
+	height: 50px;
+	background-color: white;
+	margin: 31px;
+	border-radius: 10px;
+}
+ #botton1 {
+	width: 200px;
+	height: 40px;
+	margin: 5px;
+	background-color: #0C789F;
+	float: right;
+	border-radius: 10px;
+}
+
+ #botton1 p:hover {
+	color: white;
+}
+
+ #botton1 p{
+	color: #0A4F68;
+	font-weight: bold;
+	font-size: 13px;
+	margin: 2px;
+
+}
+
+#tel{
+	float: right;
+	font-weight: bold;
+	font-style: italic;
+	font-family: arial;
+	text-align: justify;
+}
+
+
+#information{
+	float: left;
+	font-weight: bold;
+	font-style: italic;
+	font-family: arial;
+	text-align: justify;
+	padding-left: 10px;
+}
+
+#request p{
+	font-size: 20px;
+}
+
+
+
+
+article.block2{
+	float: left;
+	width: 470px;
+	margin-left: 31px;
+	font-style: italic;
+	font-family: arial;
+	text-align: left;
+	font-size: 12px;
+}
+
+
+article.block3{
+	float: left;
+	width: 376px;
+	margin-right: 31px;
+	margin-left: 30px;
+
+	font-style: italic;
+	font-family: arial;
+	text-align: justify;
+	font-size: 12px;
+}
+
+
+.image{
+	
+	float: left;
+	width: 250px;
+	margin: 31px;
+}
+#end{
+	clear: both;
+}
+
+footer{
+	width: 940px;
+	height: 50px;
+	background-color: #D8D8D8;
+	margin: 5px auto;
+
+}
+footer p{
+	padding: 10px;
+	margin: 5px 0px 0px 50px;
+	float: left;
+}
+
+#redesSociales{
+	float: right;
+	margin-right: 80px;
+	margin-top: 10px;
+	width: 150px;
+	height: 30px;
+	background-color: white;
+	border-radius: 15px;
+}
+
+footer img{
+width: 20px;
+height: 20px;
+margin: 5px 13px;
+
+}
+footer{
+	background-image: url("../images/fondoFooter.png");
+}
+
+
+#listaDatos{
+	list-style: none;
+	padding: 0px;
+}
+
+p.dato{
+	font-weight: bold;
+	clear: left;
+}
+
+#listaDatos p{
+	float: left;
+	margin: 3px;
+}
+
+footer p{
+	font-style: italic;
+}
+
+.clear{
+	margin: 0;
+}
+
+
+
+
